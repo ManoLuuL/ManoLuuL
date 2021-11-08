@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Luis Ricardo, but you can call me ManoLuuL :sunglasses:
-- :night_with_stars: I live in :brazil: in the southeast part 
+- :night_with_stars: I live in :brazil: in the SP 
 - :mortar_board: I'm studying computer science
 - :globe_with_meridians: Currently in my spare time I've been studying web programming 
 
