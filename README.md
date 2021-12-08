@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I'm Luis Ricardo, but you can call me ManoLuuL :sunglasses:
-- :night_with_stars: I live in :brazil: in the SP 
-- :mortar_board: I'm studying computer science
-- :globe_with_meridians: Currently in my spare time I've been studying web programming 
+- :night_with_stars: I live in BRASIL in the SP.
+- :mortar_board: I'm studying computer science at UNISAGRADO – Centro Universitário Sagrado Coração.
+- :globe_with_meridians: Currently, in my spare time, I have been studying java web programming, back end in Node.js and React Native.
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/luis-ricardo-coelho-couto-26ba151b4/" target="_blank">
