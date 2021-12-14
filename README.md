@@ -4,20 +4,24 @@
 - :mortar_board: I'm studying computer science at UNISAGRADO – Centro Universitário Sagrado Coração.
 - :globe_with_meridians: Currently, in my spare time, I have been studying java web programming, back end in Node.js and React Native.
 
+
+## My Skills :video_game:
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"   height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"   height="30" style="max-width:100%;"></img>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoLuuL)](https://github.com/ManoLuuL/github-readme-stats)
+
 ## Connect with me
 <a href="https://www.linkedin.com/in/luis-ricardo-coelho-couto-26ba151b4/" target="_blank">
   <img aling="center" alt="luis-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
-
-## My Skills :video_game:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="c#" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoLuuL)](https://github.com/ManoLuuL/github-readme-stats)
-
 
 <!--
 **ManoLuuL/ManoLuuL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
