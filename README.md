@@ -11,10 +11,11 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" style="max-width:100%;"></img>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30" style="max-width:100%;"></img>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"   height="30" style="max-width:100%;"></img>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="30" style="max-width:100%;"></img>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30" style="max-width:100%;"></img>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"   height="30" style="max-width:100%;"></img>
 
+## Frameworks 
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30" style="max-width:100%;"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoLuuL)](https://github.com/ManoLuuL/github-readme-stats)
 
