@@ -13,9 +13,11 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"   height="30" style="max-width:100%;"></img>
 
 ## Frameworks 
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30" style="max-width:100%;"></img>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" style="max-width:100%;"></img>
+
+## IDE
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30" style="max-width:100%;"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoLuuL)](https://github.com/ManoLuuL/github-readme-stats)
 
