@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30" style="max-width:100%;"></img>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30" style="max-width:100%;"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoLuuL)](https://github.com/ManoLuuL/github-readme-stats)
+<br>
+<img width="434px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManoLuuL&layout=compact&langs_count=8&theme=dracula"/>
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/luis-ricardo-coelho-couto-26ba151b4/" target="_blank">
@@ -30,7 +31,7 @@
 
 <!--
 **ManoLuuL/ManoLuuL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoLuuL)](https://github.com/ManoLuuL/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
