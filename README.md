@@ -14,6 +14,10 @@ Hello! 👋 I'm Luis Ricardo, a Front-End Developer with experience in various m
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="30" style="max-width:100%;"></img>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"   height="30" style="max-width:100%;"></img>
 
+<br/>
+<img width="434px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManoLuuL&layout=compact&langs_count=8&theme=dracula"/>
+
+
 ## Contact
 - 💼 <a href="https://www.linkedin.com/in/luis-ricardo-coelho-couto-26ba151b4/">LinkedIn</a> 
 - 🌐 <a href="https://portifolio-luis-front.vercel.app/">Portfolio</a>
