@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! 👋 I'm Luis Ricardo, a Front-End Developer with experience in various modern technologies. My goal is to create innovative and efficient solutions for complex challenges, always seeking to enhance my skills and learn new technologies.
+As a Front-End Web developer, I am proficient in React, TypeScript, JavaScript and Next.js. Furthermore, I am used to using additional resources such as Redux, Tailwind CSS, React Testing Library and other relevant libraries.
 
 ## Programming Language and Frameworks
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" style="max-width:100%;"></img>
