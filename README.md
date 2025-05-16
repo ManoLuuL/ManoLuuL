@@ -20,6 +20,6 @@ As a Front-End Web developer, I am proficient in React, TypeScript, JavaScript a
 
 ## Contact
 - 💼 <a href="https://www.linkedin.com/in/luis-ricardo-coelho-couto-26ba151b4/">LinkedIn</a> 
-- 🌐 <a href="https://portifolio-luis-front.vercel.app/">Portfolio</a>
+- 🌐 <a href="https://portfolio-v2-orpin-kappa.vercel.app/">Portfolio</a>
 
 Feel free to get in touch to discuss collaborations, opportunities, or just to exchange ideas about technology. Let's create something amazing together!
