@@ -11,24 +11,24 @@ Desenvolvedor Front-End Pleno | Pós-graduado em Full Stack pela Unimar | Bachar
 <a href = "mailto:ticocouto_14@hotmail.com">
   <img src="https://img.shields.io/badge/-Email-%23ff4c4c?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
-<a href="https://portifolio-luis-front.vercel.app/" target="_blank">
+<a href="https://portfolio-v2-orpin-kappa.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfólio-%230f9ea5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 ## 🧠 Principais Competências
 
 ### 🖥️ Front-End
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,angular,tailwind,jest,vite)](https://github.com/luisricardocoelho)
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,angular,tailwind,jest,vite)](https://github.com/ManoLuuL)
 
 
 ### 🛠️ Back-End
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,python,cs,dotnet)](https://github.com/luisricardocoelho)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,python,cs,dotnet)](https://github.com/ManoLuuL)
 
 ### 🗃️ Bancos de Dados
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)](https://github.com/luisricardocoelho)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)](https://github.com/ManoLuuL)
 
 ### ⚙️ Ferramentas e Práticas
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,arch)](https://github.com/luisricardocoelho)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,arch)](https://github.com/ManoLuuL)
 
 ## 📊 GitHub Stats
 <div align="center">
