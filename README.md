@@ -37,7 +37,3 @@ Desenvolvedor Front-End Pleno | Pós-graduado em Full Stack pela Unimar | Bachar
   <br>
 </div>
 
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=manoluul&color=0f9ea5" alt="Profile views" />
-</div>
